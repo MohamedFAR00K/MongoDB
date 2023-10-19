@@ -1,2 +1,4 @@
-npm init
+npm init -y
 npm install express express-session mongoose passport passport-local bcrypt
+node server.js
+
